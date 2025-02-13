@@ -158,6 +158,3 @@ Celková nabídka všech statků a služeb národního hospodářství v peněž
 
 Celkové výdaje domácností, firem, vlády případně zahraničních subjektů v ekonomice na nákupy statků a služeb.
 
----
-
-Doufám, že ti tento formát pomůže! Pokud potřebuješ další úpravy nebo máš nějaké dotazy, rád pomůžu.
