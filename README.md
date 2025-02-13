@@ -1,4 +1,3 @@
----
 
 ### Základní ekonomické pojmy
 
@@ -83,7 +82,7 @@ Cena statku nebo služby, vyjádřená jako obětovaná příležitost získat z
 
 Pokud přidáváme postupně další dávky některých vstupů a udržujeme ostatní vstupy nezměněné, budeme dosahovat stále menší přírůstky výstupů.
 
----
+
 
 ### Makroekonomie
 
