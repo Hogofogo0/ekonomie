@@ -43,6 +43,27 @@ Je pak možné přenášet velké částky peněz v malém a lehkém přenosném
 
 První papírové peníze vznikly tím, že si lidé začali ukládat své bohatství v důvěryhodných úschovnách (tedy bankách), které jim při vkladu vydali papírové potvrzení. Tyto bankovky byly kryté zlatem a každý si mohl nechat v příslušné bance vyplatit bankovku ve zlatě. Postupem času byly právě tyto bankovky používány jako prostředek směny a lidé bankovkám věřili, protože věděli, že banka, která bankovku vydala, jim ji vymění za zlato. Pokud v jednom okamžiku bylo v bance uloženo 1 000 zlaťáků, v oběhu pak byly bankovky ve stejné celkové hodnotě.
 
-### Dnešní bankovní peníze
+### Další vývoj a funkce bankovních peněz
 
-Později si banky uvědomily, že početná část peněz v bance leží trvale a že není obvyklé, aby všichni držitelé bankovek požadovali o výměnu svých peněz za zlato ve stejný okamžik. Proto se rozhodly část peněz, která v bance stále zůstává, použít na poskytování půjček a úvěrů. Například z těch 1 000 zlaťáků banka na základě dlouhodobého sledování zjistí, že 500 zlaťáků je v bance natrvalo. Proto se rozhodne poskytnout úvěry v hodnotě až 500 zlaťáků. Pokud tak udělá, všechny její
+Později si banky uvědomily, že početná část peněz v bance leží trvale a že není obvyklé, aby všichni držitelé bankovek požadovali výměnu svých peněz za zlato ve stejný okamžik. Proto se rozhodly část peněz, která v bance stále zůstává, použít na poskytování půjček a úvěrů. Například z těch 1 000 zlaťáků banka na základě dlouhodobého sledování zjistí, že 500 zlaťáků je v bance natrvalo. Proto se rozhodne poskytnout úvěry v hodnotě až 500 zlaťáků. Pokud tak učiní, všechny její výdaje již nejsou kryté zlatem. V oběhu jsou bankovky v hodnotě 1 500 zlaťáků, které jsou kryté pouze z části.
+
+V dnešní době již peníze kryté zlatem nejsou a stejně tak bankovní systém není jednostupňový (jako tomu bylo v dřívějších dobách), ale dvoustupňový, v čele s centrální bankou. Používání těchto nekrytých peněz závisí na naší důvěře, že je společnost ochotna je přijímat, a množství peněz v oběhu již nezáleží na množství zlata, ale na monetární politice centrální banky.
+
+### Bankovní peníze dnes
+
+Další etapou ve vývoji jsou bankovní peníze, což jsou peníze uložené na účtech, určené k bezhotovostnímu převodu nebo výběru z bankomatu. S bankovními penězi se setkáváme především v současnosti, kdy spolu s bankovním účtem většinou získáte přístup i do vlastního internetového a telefonického bankovnictví, přes které můžete provádět různé transakce. Přímo na bankovní účty se zasílají mzdy, bankovním převodem platíme účty. V obchodech a přes internet nakupujeme platebními kartami, které dostáváme k našim bankovním účtům. Člověk u sebe v dnešní době nepotřebuje nosit téměř žádnou větší hotovost, většina transakcí lze provést bezhotovostně.
+
+### Funkce peněz
+
+Historický vývoj peněz, který jsme nyní prošli, velice úzce souvisí s třemi důležitými funkcemi, které peníze plní:
+
+1. **Peníze jako prostředek směny**
+   Na výše uvedeném příkladu u naturální směny musel zemědělec, aby vyměnil brambory za maso, nejdříve vyměnit brambory za pivo a až poté provést výměnu za maso - tzv. zprostředkovaná směna. Peníze tento nedostatek odstraňují a poskytují nám dokonce možnost směnit statek A za statek B bez toho, abychom hledali člověka, který chce směnit to samé B za A. Se splněním této funkce bohatě stačí prodat statek A na jednom trhu a za utržené peníze koupit statek B na jiném trhu.
+
+2. **Peníze jako prostředek oceňování**
+   Tato funkce zaručuje, že nám peníze umožňují oceňovat statky a služby tím, že jim dávají cenu. Dovoluje nám převést odlišné statky, jako např. lidskou práci a suroviny, na peníze a jejich cenu pak můžeme používat k jejich vzájemnému porovnávání. Bez této funkce by výrobci například nebyli schopni určit, jaké kombinace vstupů mají při výrobě využít, protože by nebyli schopni porovnat vzácnost výrobních zdrojů.
+
+3. **Peníze jako uchovatel hodnot**
+   Díky této funkci máme možnost odložit část směny na později, tedy např. prodáme statek A a získané peníze si necháme. Toto v barteru nebylo možné, tam jsme museli směnit statek za jiný. Zajímavé je, že peníze tuto funkci nemusí splňovat vždy na takové úrovni (a často ani nesplňují), jako jiné komodity. Ale i přesto lidé obvykle značnou část svého bohatství drží právě v penězích, a to především kvůli jejich dobré likviditě (je možné je rychle proměnit v libovolný jiný statek).
+
+Peníze prošly v historii svého vzniku několika důležitými změnami, než se dostaly do stavu, v jakém je známe dnes. Hlavní podíl na jejich vzniku má dělba práce a s ní spojený vývoj směny, který dal postupně vznikat komoditním, papírovým a bankovním penězům. Zajímavé také je, že dříve byly všechny peníze kryté zlatem. V dnešní době již kryté nejsou a ani množství peněz v oběhu není určováno množstvím zlata, ale monetární politikou centrální banky.
