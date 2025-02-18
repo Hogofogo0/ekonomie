@@ -1,6 +1,3 @@
-Jasně, mohu vám pomoci s formátováním vašeho dokumentu. Zde je přeformátovaný text:
-
-
 
 ## Otázky k textu o penězích
 
