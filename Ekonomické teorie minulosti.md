@@ -1,6 +1,3 @@
-Níže naleznete celý dokument naformátovaný do Markdown, přičemž byly zahrnuty všechny části:
-
-
 # Přehled ekonomických směrů a vznik ekonomie jako vědy
 
 ## Merkantilismus
