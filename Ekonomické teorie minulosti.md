@@ -1,48 +1,110 @@
+Níže naleznete celý dokument naformátovaný do Markdown, přičemž byly zahrnuty všechny části:
 
-### Merkantilismus
-#### Obecná charakteristika merkantilistických názorů
+
+# Přehled ekonomických směrů a vznik ekonomie jako vědy
+
+## Merkantilismus
+
+### Obecná charakteristika merkantilistických názorů
 - První směr myšlení svým obsahem vyhraněně ekonomický.
 - Jedná se o první tržně orientovanou soustavu názorů.
 - Soustava je založena na ztotožnění bohatství s jeho peněžní formou.
 - Zvyšovat bohatství země znamená zvyšovat množství drahého kovu v zemi, podporovat domácí výrobu a vývoz.
 - Důraz na zahraniční obchod jako sféru umožňující růst bohatství země.
-- Soustava doporučení praktické politice - cíle (růstu bohatství) je možno dosáhnout prostřednictvím přísné státní regulace zahraničního obchodu, pohybu peněz, výroby i spotřeby.
+- Soustava doporučení praktické politice – cíle (růstu bohatství) je možno dosáhnout prostřednictvím přísné státní regulace zahraničního obchodu, pohybu peněz, výroby i spotřeby.
 
-#### Vývoj merkantilismu
-Merkantilismus prošel vývojem, ve kterém je možno odlišit dvě základní vývojové etapy, mezi kterými je rozmezí v závěru 16. století. Samotné slovo „merkantilismus" je latinského původu (mercator - obchodník, Mercurius - římský bůh obchodu).
+### Vývoj merkantilismu
+Merkantilismus prošel vývojem, při němž je možno odlišit dvě základní vývojové etapy, mezi kterými je rozmezí v závěru 16. století. Samotné slovo „merkantilismus“ je latinského původu (*mercator* – obchodník, *Mercurius* – římský bůh obchodu).
 
-- Raný merkantilismus vnímal peníze především jako poklad.
-- V rozvinutém merkantilismu je zdůrazněna i funkce transakčního prostředku.
-- Rozvinutý merkantilismus byl úzce spjat (také personálně) s velkými reexportními společnostmi (např. v Anglii s Východoindickou společností).
+- **Raný merkantilismus:** vnímal peníze především jako poklad.
+- **Rozvinutý merkantilismus:** zdůrazňuje i funkci transakčního prostředku a je úzce spjat (také personálně) s velkými reexportními společnostmi (např. v Anglii s Východoindickou společností).
 
-#### Jean Baptiste Colbert
-Jean Baptiste Colbert (1619 - 1683) se stal nejvýznamnější a nejznámější osobností francouzského merkantilismu. Od jeho jména je odvozena označení francouzského merkantilismu jako colbertismu. Je typickým představitelem rozvinutého merkantilismu. Colbertovo úsilí se upřelo dvěma směry:
+### Jean Baptiste Colbert
+Jean Baptiste Colbert (1619 – 1683) se stal nejvýznamnější a nejznámější osobností francouzského merkantilismu. Od jeho jména je odvozena označení francouzského merkantilismu jako *colbertismu*. Je typickým představitelem rozvinutého merkantilismu. Jeho úsilí se upínalo dvěma směry:
+- Rozvoj královských manufaktur na luxusní zboží (např. gobelíny, lustry), se kterým mohla Francie uspět na evropském trhu.
+- U spotřebního zboží dosažení konkurenceschopnosti prostřednictvím nižších cen ve srovnání s anglickými výrobci.
 
-- Rozvoj královských manufaktur na luxusní zboží (gobelíny, lustry), se kterým mohla Francie uspět na evropském trhu.
-- V případě spotřebního zboží dosažení konkurenceschopnosti nižší cenou než za kterou realizují angličtí výrobci.
-Přejdu k další části dokumentu:
+## Anglická klasická politická ekonomie
 
-#### Význam politické ekonomie A. Smitha pro vznik ekonomie jako vědy
-Smith zaujal ve vývoji ekonomického myšlení místo, pro které je všeobecně považován za zakladatele ekonomie jako vědy. V souvislosti s jeho hodnocením se velmi často zdůrazňuje, že ve skutečnosti v jeho díle není obsaženo mnoho originálních myšlenek a přesto není jeho pozice zpochybněna. Adam Smith (1723 - 1790) na své předchůdce navázal, byl jimi ovlivněn a pokusil se vytvořit ucelený systém ekonomických názorů obsahující teorii výroby i rozdělování. Charakteristické znaky Smithovy politické ekonomie:
-- Hospodářský liberalismus
-- Zdroj bohatství společnosti je vynakládání práce, a to její množství a produktivita
-- Dělba práce je významným činitelem hospodářského růstu
-- Kapitál je vynakládán za účelem dosažení zisku
-- Akumulace kapitálu, která ovlivňuje úroveň produktivity práce, je nutnou podmínkou rozvoje
-- Předpokládá, že automaticky dochází k přeměně úspor v investice
-- Sklon ke směňování, který je člověku vlastní, představuje impuls, který uvádí do pohybu celý hospodářský systém
+### Formativní období klasické politické ekonomie
+Hospodářský a společenský vývoj byl doprovázen poznáním, že:
+- Skutečné bohatství společnosti je skryto a vytvářeno ve sféře výroby.
+- Hospodářství je svébytný organismus se zákonitostmi, které je nutno poznávat a respektovat.
 
-#### Neviditelná ruka trhu
-Jeho přístup k výše uvedeným souvislostem je založen na představě, že všechny ekonomické jevy a procesy jsou odvozeny z přirozené povahy člověka. Ten sleduje svůj soukromý osobní zájem a tím uvádí do chodu síly, které jsou zdrojem pohybu celého systému a jeho vývoje. Neviditelná ruka trhu pak vyjadřuje mechanismus utváření souladu (harmonie) individuálního a společenského zájmu. Na rozdíl od pozice morální filozofie, ve které za základní lidské vlastnosti považuje solidaritu a dobročinnost a od kterých také odvozuje uspořádání společnosti, se v spisu Bohatství národů stalo východiskem sledování vlastního prospěchu. To je také nejpřirozenější vlastností člověka a umožnilo to Smithovi aplikovat liberální přístup na pojetí samotného předmětu ekonomie. Analýza mechanismu, kterým se prosazuje onen spontánní řád garantující nejen bohatství společnosti, ale především jeho růst:
+Tyto myšlenky položily základy vzniku soustavy ekonomických názorů, která vstoupila do historie jako klasická politická ekonomie. Jejím vznikem reagovala proměna hospodářského a společenského vývoje v 17. a 18. století a zároveň se zrodila nová věda – ekonomie, která se oddělila od širšího proudu společenskovědního myšlení jako samostatná teoretická disciplína.
 
-```
-Každý sleduje pouze vlastní zisk a jako v řadě jiných případů ho vede jakási neviditelná ruka, aby pomáhal dosáhnout cíl o který mu vůbec nejde... Tím, že sleduje vlastní zájmy, nejednou prospěje zájmům společnosti více, než kdyby jim chtěl skutečně prospět.
-```
+Jedna z mála všeobecně deklarovaných shod v soudobé ekonomii se týká roku 1776, se kterým se spojuje zrození ekonomie jako vědy a zrod klasické politické ekonomie v Anglii v díle Adama Smithe.
 
-Smithovo dílo završuje kritiku merkantilismu, zdůrazňuje, že vměšování státu do hospodářství představuje významnou barieru rozvoje a tedy růstu bohatství, ale neomezuje se pouze na identifikaci této příčiny. Neméně významnou je pro něj nedostatek kapitálu. Proto v jeho systému zaujímá závažné místo akumulace kapitálu, proto také kritizuje neproduktivní spotřebu a na druhé straně vyzvedá spořivost doplněnou předpokladem o automatické přeměně úspor v investice (tedy akumulaci kapitálu).
+Formativní období, během něhož se konstituoval teoretický systém klasické politické ekonomie, trvalo přibližně 100 let. Počátek tohoto období v Anglii je úzce spjat s W. Pettym, jedním z nejvýznamnějších představitelů ekonomického myšlení 17. století.
 
-Práce, produktivita práce, dělba práce, akumulace kapitálu a velikost trhu představují základní kategorie tržního hospodářství a jeho rozvoje. Práce je zdrojem bohatství a protože bohatstvím rozumí statky ve smyslu výrobků schopných uspokojovat potřeby, je pro něj produktivní pouze práce vynakládaná v oblasti materiální výroby (na rozdíl od fyziokratů nejen práce v zemědělství, ale také v průmyslu, resp. řemeslo).
 
-V první třetině 19. století ovládlo učení klasické politické ekonomie nejvyspělejší země Evropy, zejména Anglii a Francii. Významné osobnosti ekonomické teorie vycházely z ekonomie A. Smitha, ale rozvíjely ekonomii jako vědu v podmínkách, které byly provázeny důsledky prosazování průmyslové revoluce. Změny se projevují nejen obecně v růstu výkonnosti hospodářství, růstu produktivity práce opírající se o zavádění strojové výroby, ale změny jsou charakteristické také vytlačováním řemeslné práce, je potlačován význam vysoce kvalifikované rukodělné práce prací vynakládanou při obsluze strojních zařízení. Z pohledu ekonomů klasické politické ekonomie roste význam kapitálu v procesu výroby a růstu bohatství.
 
-Pokračování v dalších částech dokumentu?
+## Fyziokraté
+
+Název *fyziokraté* je odvozen od pojmu fyziokracie – vlády přírody, termínu, který v roce 1768 použil příslušník školy Dupont de Nemours ve spisu *Fyziokracie či základní vládní zřízení, nejvýhodnější pro lidstvo*. Učení fyziokratů uvedl do širší známost Adam Smith, který upozorňoval na existenci dvou systémů myšlení – obchodního (merkantilismus) a zemědělského (fyziokratismus). Členové této školy se označovali jako ekonomové.
+
+Časová působnost fyziokratů nebyla dlouhá (nepřesáhla čtvrt století) a škola působila v letech **1756 – 1778**.
+
+Ústřední osobností školy byl François Quesnay, původně lékař, který se stal osobním lékařem krále Ludvíka XV a madame Pompadour, čímž se proslavil i ve Versailles. Kolem roku 1750 se začal zajímat o hospodářské otázky, což brzy vedlo k jeho, byť nepříliš rozsáhlým, spisům. V roce 1756 se začaly ve Velké francouzské encyklopedii objevovat články k hospodářským otázkám (např. Quesnayova stať *O nájemcích* a o rok později *O obilí*). V roce 1758 pak vyšla jeho nejslavnější práce **Ekonomická tabulka** a v roce 1760 byla publikována práce *Všeobecnými zásadami hospodářské vlády v zemědělském království*. Tyto práce lze využít k prezentaci základních charakteristik učení fyziokratů. Zvláštní postavení zemědělské výroby je v jejich pojetí zakotveno zejména těmito body:
+- Zemědělství bylo hlavním odvětvím, které bylo merkantilismem zdevastováno.
+- Jádrem ekonomické interpretace je učení o *čistém produktu*, jenž vzniká jako přebytek produkce nad věcnými náklady.
+- Čistý produkt vzniká pouze v zemědělství, pokud je odděleno užívání půdy od vlastnictví, což vytváří rentový vztah, kdy je čistý produkt vyplácen formou renty vlastníkovi půdy.
+
+
+
+## Význam politické ekonomie Adama Smithe pro vznik ekonomie jako vědy
+
+Adam Smith (1723 – 1790) se v rámci vývoje ekonomického myšlení stal zakladatelem ekonomie jako vědy. Přestože se mu často připisuje nedostatek originálních myšlenek, jeho význam spočívá v navázání na předchůdce, převzetí a následném zformování uceleného systému ekonomických názorů obsahujícího teorii výroby i rozdělování. Charakteristické rysy Smithovy politické ekonomie:
+- **Hospodářský liberalismus.**
+- **Práce** jako zdroj bohatství společnosti, přičemž se klade důraz na její množství a produktivitu.
+- **Dělba práce** jako klíčový faktor hospodářského růstu.
+- Kapitál je vynakládán za účelem dosažení zisku.
+- **Akumulace kapitálu** je zásadní pro zvýšení produktivity práce a je předpokladem rozvoje.
+- Automatická přeměna úspor v investice.
+- Přirozený sklon ke směňování, který aktivuje pohyb celého hospodářského systému.
+
+### Neviditelná ruka trhu
+Smithův přístup vychází z předpokladu, že všechny ekonomické jevy a procesy pramení z přirozenosti člověka, který sleduje svůj osobní zájem. Tím jsou spouštěny síly, které vedou k automatické koordinaci řízené tzv. neviditelnou rukou trhu. Tato „ruka“ vytváří harmonii mezi individuálním a společenským zájmem, aniž by bylo třeba, aby stát aktivně zasahoval. Na rozdíl od morální filozofie, která klade důraz na solidaritu a dobročinnost, *Bohatství národů* staví na sledování vlastního prospěchu jako přirozené lidské vlastnosti.
+
+Analýzu mechanismu tohoto spontánního řádu lze shrnout například následovně:
+
+
+Každý sleduje pouze vlastní zisk a jako v řadě jiných případů ho vede jakási neviditelná ruka, aby pomáhala dosáhnout cíl, o který mu vůbec nejde... Tím, že sleduje vlastní zájmy, nejednou prospěje zájmům společnosti více, než kdyby jim chtěl skutečně prospět.
+
+
+Smithovo dílo také kritizuje vměšování státu do hospodářství, které považuje za významnou bariéru rozvoje a růstu bohatství. Ve svém systému hraje klíčovou roli akumulace kapitálu, přičemž kritizuje neproduktivní spotřebu a zdůrazňuje nutnost spořivosti, jež vede k automatické přeměně úspor v investice.
+
+Základními kategoriemi, podle Smitha, jsou práce, produktivita práce, dělba práce, akumulace kapitálu a velikost trhu. Práce je totiž považována za zdroj bohatství – statky jsou vnímány jako výrobky, které uspokojují lidské potřeby. Z tohoto pohledu je produktivní pouze práce v oblasti materiální výroby (na rozdíl od fyziokratů, kteří plně oceňovali zemědělství).
+
+V první třetině 19. století se učení klasické politické ekonomie stalo dominantním názorem v nejvyspělejších zemích Evropy, zejména v Anglii a Francii. Významní představitelé ekonomické teorie vycházeli ze Smithových myšlenek, avšak rozvíjeli ekonomii jako vědu v kontextu průmyslové revoluce, kdy se měnila struktura výroby a role kapitálu v hospodářském růstu.
+
+---
+
+## Klasická politická ekonomie (Klasická škola)
+
+### Teorie hodnoty a teorie rozdělování
+Klasická politická ekonomie se zaměřovala zejména na vznik a rozdělování národního bohatství (makroekonomie) a kladla velký důraz na problematiku hospodářského růstu. Klasičtí ekonomové analyzovali především role velkých společenských tříd – kapitalistů, dělníků a pozemkových vlastníků. Hlavní postavou se stal kapitalista, který investoval, tvořil mzdový fond a podněcoval ekonomický růst.
+
+V rámci této školy se rozvinuly dvě klíčové teorie:
+- **Teorie hodnoty:** Ta byla založena na nákladové teorii, tedy cena výrobku byla určena jeho výrobními náklady. Moderní ekonomie postupně upustila od pojmu „hodnota“ a místo něj používá termín „cena“, jehož vysvětlení vychází primárně z užitečnosti výrobku na poptávkové straně (i přes uznání vlivu nákladů – tedy nabídky).
+- **Teorie rozdělování:** Ta vysvětluje mzdy, zisky a pozemkové renty jako důchody tří hlavních společenských tříd. Zatímco dnešní pohled chápe tyto důchody jako ceny výrobních faktorů, které vznikají střetem nabídky a poptávky na trhu, klasici oddělili teorii rozdělování od teorie hodnoty – přičemž mzdu pojali jako existenční minimum a kapitál jako mzdový fond.
+
+### Adam Smith
+V období 70. a 80. let 18. století, kdy se začínala formovat první vlna průmyslové revoluce v Anglii, nastalo období příprav a optimistických očekávání ohledně nového kapitalistického uspořádání. Adam Smith, jehož dílo *Bohatství národů* (1776) se stalo milníkem, se zabýval otázkou, co je zdrojem národního bohatství. Ve svém díle se věnoval tématům, která později dominovala klasické politické ekonomii:
+- Neviditelná ruka trhu
+- Růst a měření národního bohatství
+- Teorie hodnoty a rozdělování
+
+Důraz kladl především na svobodu obchodu. Podle něj funguje národní hospodářství jako samo-regulační systém, který bez zásahů státu dosahuje rovnováhy – právě díky mechanismu tzv. neviditelné ruky trhu. Důležitým prvkem jeho teorie je také význam práce – zejména dělby práce pro růst bohatství.
+
+Smith dále rozlišoval mezi užitnou a směnnou hodnotou zboží. Inspirací byl tzv. paradox hodnoty, kdy například voda, ačkoliv je vysoce užitečná, má nízkou směnnou hodnotu, zatímco diamant, který je prakticky neužitečný, dosahuje vysoké směnné hodnoty. Tím odvodil, že směnná hodnota nezávisí pouze na užitečnosti. Nutno je poznamenat, že Smith nedokázal rozlišit mezi celkovou a mezní užitečností (tedy užitečností poslední spotřebované jednotky), což vedlo k opomenutí významu poptávky při utváření ceny. Důsledkem bylo zavedení objektivně nastiavené nákladové teorie hodnoty, jež předpokládala, že hodnota výrobku je nezávislá na subjektivních preferencích spotřebitelů.
+
+Adam Smith zároveň připouštěl, že krátkodobě může poptávka ovlivnit cenu (tzv. tržní cena). V dlouhém období má však tržní cena tendenci se přibližovat tzv. přirozené ceně, která je funkcí nákladů – zejména přirozené mzdy a přirozené míry zisku. Tím učinil nákladovou teorii hodnoty závislou na teorii rozdělování.
+
+### Sayův zákon trhů
+Sayův zákon trhů, formulovaný Jean Baptiste Say, je dalším významným pilířem klasické ekonomie. Tento zákon prohlašuje, že každá nabídka vytváří odpovídající poptávku – jinými slovy, každá nabídka si vždy nakonec "najde" své kupce. I když bylo možné, že na dílčích trzích může vzniknout nerovnováha, v agregátu (tj. pro celou ekonomiku) nabídka a poptávka jsou propojeny, což zajišťuje rovnováhu celého hospodářského systému.
+
+#### Další představitelé
+Kromě Adama Smithe a Jeana Baptista Say patří mezi významné představitele klasické politické ekonomie zejména:
+- **David Ricardo** – zabýval se růstem národního bohatství a teorií mezinárodního obchodu.
+- **John Stuart Mill** – navazoval na myšlenky Smithe a Ricarda a přispěl k dalšímu rozvoji ekonomické teorie.
