@@ -1,11 +1,17 @@
 ## Otázky
 1. Uveď příklad ekonomického myšlení z antiky - jméno autora.
+    
 2. Z jakého hlavního názoru vycházel merkantilismus?
+    Merkantilismus vycházel z názoru, že bohatství národa je dáno množstvím zlata a stříbra, které má k dispozici. Cílem bylo dosáhnout obchodní bilance, kde export převyšuje import, a tak akumulovat drahé kovy
 3. Se kterou teorií je spojován vznik ekonomie jako vědy? Co je východiskem této teorie? Jména hlavních představitelů.
+    Ekonomie jako věda je spojována s klasickou ekonomickou teorií. Základním východiskem této teorie je tržní mechanismus založený na nabídce a poptávce, který reguluje produkci, rozdělování a spotřebu zboží. Hlavními představiteli jsou Adam Smith, David Ricardo a John Stuart Mill
 4. Jaké ekonomické názory vytvořil marxismus?
+    - Kritizuje sociální rozdíly, vykořisťování
+    - Pojmy nadhodnota, vlastnictví, kapitál - vše je spojeno výlučně s ekonomickými vztahy
 5. Představitel neoklasické teorie a její hlavní rysy.
+    
 6. Totéž - keynesiánství, monetarismus.
-
+    
 ## Ekonomické teorie
 Ekonomií se zabýval už Aristoteles a Platon. Jako věda vzniká ekonomie v 15./16. století s nástupem kapitalismu.
 
