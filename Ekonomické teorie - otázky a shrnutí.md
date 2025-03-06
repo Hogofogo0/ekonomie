@@ -1,6 +1,5 @@
 ## Otázky
 1. Uveď příklad ekonomického myšlení z antiky - jméno autora.
-    
 2. Z jakého hlavního názoru vycházel merkantilismus?
     - Merkantilismus vycházel z názoru, že bohatství národa je dáno množstvím zlata a stříbra, které má k dispozici. Cílem bylo dosáhnout obchodní bilance, kde export převyšuje import, a tak akumulovat drahé kovy
 3. Se kterou teorií je spojován vznik ekonomie jako vědy? Co je východiskem této teorie? Jména hlavních představitelů.
@@ -9,9 +8,15 @@
     - Kritizuje sociální rozdíly, vykořisťování
     - Pojmy nadhodnota, vlastnictví, kapitál - vše je spojeno výlučně s ekonomickými vztahy
 5. Představitel neoklasické teorie a její hlavní rysy.
-    
-6. Totéž - keynesiánství, monetarismus.
-    
+    - Jedním z hlavních představitelů je Alfred Marshall. Hlavní rysy neoklasické ekonomie zahrnují důraz na marginalismus (analýza mezních veličin), teorii užitku, rovnováhu na trzích a racionální chování ekonomických subjektů.
+6. Keynesiánství
+    - J.M. Keynes - dílo "Obecná teorie zaměstnanosti, úroku a peněz".
+    - Je to teorie blízká levici - snaží se o minimální nezaměstnanost.
+    - Doporučuje zásahy státu do hospodářství v recesi i za cenu státního deficitu; v době expanze ekonomiky státu se má deficit zaplatit.
+7. Monetarismus
+    - M. Friedman - dílo "Kapitalismus a svoboda".
+    - Zasazuje se o snížení inflace a minimální státní zásahy do ekonomiky.
+
 ## Ekonomické teorie
 Ekonomií se zabýval už Aristoteles a Platon. Jako věda vzniká ekonomie v 15./16. století s nástupem kapitalismu.
 
