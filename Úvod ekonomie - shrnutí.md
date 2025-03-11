@@ -72,50 +72,72 @@
 
 ## Ekonomické teorie minulosti
 
+
 ### Merkantilismus
 - **Období**: 17. století.
 - **Hlavní myšlenky**:
-  - Hromadění zlata jako prostředku stability státu.
-  - Podpora domácí výroby a vývozu, omezení dovozu (cla).
-- **Představitel**: Colbert (ministr za Ludvíka XIV.).
+  - Posílení autoritativního státu akumulací zlata.
+  - Podpora exportu, omezení importu zavedením cel.
+  - Podpora domácí výroby, zejména manufaktur.
+- **Představitel**: Jean-Baptiste Colbert (ministr Ludvíka XIV.).
+
+
 
 ### Fyziokraté
 - **Období**: Přelom 17. a 18. století.
 - **Hlavní myšlenky**:
-  - Hledání ekonomických zákonů podobných přírodním zákonům.
   - Zemědělství jako hlavní zdroj bohatství.
-- **Představitel**: F. Quesnay.
+  - Hledání přirozených ekonomických zákonů.
+- **Představitel**: François Quesnay (*Ekonomická tabulka*).
+
+
 
 ### Klasická ekonomie
 - **Období**: 18.–19. století.
 - **Hlavní myšlenky**:
-  - Bohatství je vytvářeno ve sféře výroby.
-  - Trh a jeho „neviditelná ruka“ řeší ekonomické problémy.
-- **Představitelé**: Adam Smith (*Bohatství národů*), J.S. Mill, T.R. Malthus.
+  - Trh jako samoregulační systém ("neviditelná ruka trhu").
+  - Práce a dělba práce jako zdroje bohatství.
+  - Svoboda obchodu a omezení státních zásahů.
+- **Představitelé**:
+  - **Adam Smith**: *Bohatství národů* (1776) – zdůraznil práci jako klíč k růstu bohatství a dělbu práce.
+  - **David Ricardo**: *Zásady politické ekonomie a zdanění* (1817) – teorie komparativní výhody. Ricardo tvrdil, že země by se měly specializovat na výrobu toho, co produkují efektivněji než jiné, a obchodovat s ostatními, což zvyšuje celosvětovou prosperitu.
+  - **James Mill**: *Základy politické ekonomie* (1821) – první učebnice politické ekonomie a významný přínos k rozvoji Ricardovy školy.
+
+
 
 ### Marxismus
 - **Období**: Polovina 19. století.
 - **Hlavní myšlenky**:
-  - Kritika kapitalismu, vykořisťování a sociálních rozdílů.
-  - Pojem *nadhodnota*.
+  - Kritika kapitalismu za vykořisťování dělníků a sociální nerovnosti.
+  - Pojem nadhodnoty: rozdíl mezi hodnotou vytvořenou dělníkem a mzdou vyplacenou dělníkovi.
+  - Předpověď revoluce proletariátu.
 - **Představitel**: Karl Marx (*Kapitál*).
 
+
+
 ### Neoklasická ekonomie
-- **Období**: 1. polovina 20. století.
+- **Období**: 19.–20. století.
 - **Hlavní myšlenky**:
-  - Zavedení matematiky a statistiky do ekonomie.
-  - Omezení státních zásahů.
-- **Významná událost**: Krize ve 30. letech otřásla teorií.
+  - Využití matematiky a statistiky k analýze ekonomických jevů.
+  - Teorie mezní užitečnosti: hodnota statků závisí na jejich užitečnosti pro jednotlivce.
+  - Minimalizace státního zásahu do ekonomiky.
+- **Představitelé**:
+  - Alfred Marshall: Zásadní spojení klasické ekonomie s teoriemi mezní užitečnosti.
+
+
 
 ### Keynesiánství
-- **Období**: 20. století.
+- **Období**: 20. století (zejména po Velké hospodářské krizi ve 30. letech).
 - **Hlavní myšlenky**:
-  - Zásahy státu do hospodářství při recesi.
-  - Minimalizace nezaměstnanosti i za cenu státního deficitu.
-- **Představitel**: J.M. Keynes (*Obecná teorie zaměstnanosti, úroku a peněz*).
+  - Podpora státních zásahů v recesi k minimalizaci nezaměstnanosti.
+  - Zvýšení veřejných výdajů v době recese i za cenu deficitu.
+- **Představitel**: John Maynard Keynes (*Obecná teorie zaměstnanosti, úroku a peněz*).
+
+
 
 ### Monetarismus
 - **Období**: 20. století.
 - **Hlavní myšlenky**:
-  - Minimalizace inflace a státních zásahů.
-- **Představitel**: M. Friedman (*Kapitalismus a svoboda*).
+  - Snižování inflace jako klíčový cíl hospodářské politiky.
+  - Omezování státních zásahů.
+- **Představitel**: Milton Friedman (*Kapitalismus a svoboda*).
