@@ -60,6 +60,3 @@
 - **Keynesiánství**: Podpora státních zásahů, minimalizace nezaměstnanosti (J.M. Keynes).
 - **Monetarismus**: Minimalizace inflace, omezení státních zásahů (M. Friedman).
 
-
-
-Doufám, že tento formát odpovídá vašim požadavkům! Pokud byste chtěl ještě něco upravit, neváhejte mi dát vědět. 😊
