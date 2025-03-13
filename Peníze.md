@@ -67,3 +67,20 @@ Historický vývoj peněz, který jsme nyní prošli, velice úzce souvisí s t�
    Díky této funkci máme možnost odložit část směny na později, tedy např. prodáme statek A a získané peníze si necháme. Toto v barteru nebylo možné, tam jsme museli směnit statek za jiný. Zajímavé je, že peníze tuto funkci nemusí splňovat vždy na takové úrovni (a často ani nesplňují), jako jiné komodity. Ale i přesto lidé obvykle značnou část svého bohatství drží právě v penězích, a to především kvůli jejich dobré likviditě (je možné je rychle proměnit v libovolný jiný statek).
 
 Peníze prošly v historii svého vzniku několika důležitými změnami, než se dostaly do stavu, v jakém je známe dnes. Hlavní podíl na jejich vzniku má dělba práce a s ní spojený vývoj směny, který dal postupně vznikat komoditním, papírovým a bankovním penězům. Zajímavé také je, že dříve byly všechny peníze kryté zlatem. V dnešní době již kryté nejsou a ani množství peněz v oběhu není určováno množstvím zlata, ale monetární politikou centrální banky.
+
+#Otázky
+Jsi vůči reklamě „imunní“, nebo jí občas podlehneš?
+
+Myslíš, že reklama může ovlivňovat tvé chování a rozhodování, aniž by sis toho byl/a vědom/a?
+
+Už ses někdy nechal/a „nachytat“ reklamou a potom jsi litoval? (nebo někdo z rodiny/kamarádů)
+
+
+Sestavte si ve dvojici pořadí pěti reklam, které považujete za nejlepší, a „žebříček“ nejhorších.
+|„TOP 5“|„HVĚZDNÁ PĚCHOTA“|
+|1.	|1.|
+|2.	|2. |
+|3.	|3.|
+|4.	|4.|
+|5.	|5.|
+
