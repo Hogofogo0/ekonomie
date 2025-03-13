@@ -59,3 +59,20 @@
   5. **Internet**:
      - Bannery, spamy, reklama na sociálních sítích.
      - Nízké náklady a velký dosah.
+# Otázky
+Jsi vůči reklamě „imunní“, nebo jí občas podlehneš?
+
+Myslíš, že reklama může ovlivňovat tvé chování a rozhodování, aniž by sis toho byl/a vědom/a?
+
+Už ses někdy nechal/a „nachytat“ reklamou a potom jsi litoval? (nebo někdo z rodiny/kamarádů)
+
+
+Sestavte si ve dvojici pořadí pěti reklam, které považujete za nejlepší, a „žebříček“ nejhorších.
+|„TOP 5“|„HVĚZDNÁ PĚCHOTA“|
+| -------- | ------- |
+|1.	|1.|
+|2.	|2. |
+|3.	|3.|
+|4.	|4.|
+|5.	|5.|
+
