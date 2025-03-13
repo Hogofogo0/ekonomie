@@ -78,6 +78,7 @@ Už ses někdy nechal/a „nachytat“ reklamou a potom jsi litoval? (nebo někd
 
 Sestavte si ve dvojici pořadí pěti reklam, které považujete za nejlepší, a „žebříček“ nejhorších.
 |„TOP 5“|„HVĚZDNÁ PĚCHOTA“|
+| -------- | ------- |
 |1.	|1.|
 |2.	|2. |
 |3.	|3.|
