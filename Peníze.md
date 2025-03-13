@@ -68,7 +68,7 @@ Historický vývoj peněz, který jsme nyní prošli, velice úzce souvisí s t�
 
 Peníze prošly v historii svého vzniku několika důležitými změnami, než se dostaly do stavu, v jakém je známe dnes. Hlavní podíl na jejich vzniku má dělba práce a s ní spojený vývoj směny, který dal postupně vznikat komoditním, papírovým a bankovním penězům. Zajímavé také je, že dříve byly všechny peníze kryté zlatem. V dnešní době již kryté nejsou a ani množství peněz v oběhu není určováno množstvím zlata, ale monetární politikou centrální banky.
 
-#Otázky
+# Otázky
 Jsi vůči reklamě „imunní“, nebo jí občas podlehneš?
 
 Myslíš, že reklama může ovlivňovat tvé chování a rozhodování, aniž by sis toho byl/a vědom/a?
