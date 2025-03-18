@@ -201,7 +201,6 @@
   - Zavedení tržních mechanismů do všech oblastí hospodářství.
   - Liberalizaci obchodu a financí.
   - Významné společenské a ekonomické dopady.
-  - 
 
 ## Otázky
 Jaká byla situace v naší ekonomice po skončení 2. světové války- které dokumenty a aktivity rozhodují o tom, že půjdeme cestou zestátnění, odstranění soukromého vlastnictví… 
