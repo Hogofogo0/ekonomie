@@ -4,19 +4,19 @@
 
 ### Po roce 1945
 
-- **5.4. 1945**: Košický vládní program
+- **5. 4. 1945**: Košický vládní program
   - Zabavení majetku zrádců a kolaborantů, uvalení národní správy.
   - Znárodnění klíčového průmyslu, těžby surovin a peněžnictví.
   - Půda velkostatkářů, zrádců a kolaborantů konfiskována a přidělena rolníkům a zemědělským dělníkům.
 
-- **19.5. 1945**: Dekret prezidenta republiky
+- **19. 5. 1945**: Dekret prezidenta republiky
   - Konfiskace veškerého majetku Němců, Maďarů a zrádců, zavedení národní správy.
   - Znárodnění 40 % všech průmyslových podniků.
 
-- **21.6. 1945**: Konfiskace půdy Němců, Maďarů, zrádců a kolaborantů
+- **21. 6. 1945**: Konfiskace půdy Němců, Maďarů, zrádců a kolaborantů
   - Zaměřeno především na pohraničí.
 
-- **24.10. 1945**: Znárodnění
+- **24. 10. 1945**: Znárodnění
   - Zahrnuty všechny banky, pojišťovny, hutě, doly, závody nad 500 zaměstnanců a některé podniky nad 150 zaměstnanců.
   - Celkem znárodněno 61 % průmyslu, rozděleného do tří sektorů:
     1. Socialistický
