@@ -201,3 +201,15 @@
   - Zavedení tržních mechanismů do všech oblastí hospodářství.
   - Liberalizaci obchodu a financí.
   - Významné společenské a ekonomické dopady.
+  - 
+
+## Otázky
+Jaká byla situace v naší ekonomice po skončení 2. světové války- které dokumenty a aktivity rozhodují o tom, že půjdeme cestou zestátnění, odstranění soukromého vlastnictví… 
+Jak toto bylo završeno po převzetí moci komunisty v r. 48?
+
+1) Co se označuje termínem ekonomická transformace, kdy začala probíhat, vjakých oblastech
+2) Vyjmenuj tři podoby odstátnění a stručně je charakterizuj
+3) Co bylo podstatou transformace bankovního systému, jaké nedostatky toto provázely
+4) Co označuje termín cenová liberalizace
+
+
