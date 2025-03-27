@@ -65,8 +65,7 @@ Krize však zároveň přispěly k ekonomické obnově a modernizaci výrobních
 - Hospodářská krize vedla k úpadku demokratických systémů a růstu extrémismu.
 - Základy pro sociální revoluce a vznik fašistických diktatur.
 - Stát začal výrazně zasahovat do hospodářství (např. Nový úděl v USA pod F. D. Rooseveltem).
-- Pokračuji s kompletním naformátováním dokumentu do Markdown podoby. Zde je další část:
-
+- Pokračuji s kompletním naformátováním dokumentu do Markdown podoby. 
 
 
 ## Světová hospodářská krize (1929–1933)
